@@ -1,1 +1,1 @@
-Se usaron principalmente cinco clases la primera para el paciente para administrar todos sus datos y poder gestionarlos segundo la clase de nutricionista para poder gestionar los datos de los especialistas 
+
